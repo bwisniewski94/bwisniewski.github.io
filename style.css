@@ -1,0 +1,40 @@
+
+html,
+body{
+	height: 100%;
+	width: 100%;
+  font-size: 10px;
+
+}
+
+header.startup{
+  background-image: url("backgroundimage.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+.faded{
+	margin-top: 40px;
+  border: 5px white solid;
+  padding: 10px;
+  font-size: 3em;
+}
+
+
+hr
+{
+	border:4px solid white;
+  margin-top:10px;
+}
+
+.mainPageButton
+{
+  margin-top: 30%;
+  background-color:transparent;
+  color:white;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 2em;
+  border: 4px solid white;
+}
